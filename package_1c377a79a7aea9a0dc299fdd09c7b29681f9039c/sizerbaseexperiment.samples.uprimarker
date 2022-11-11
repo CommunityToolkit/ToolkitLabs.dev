@@ -1,0 +1,14 @@
+ContentSizerLeftShelfPage.xaml
+ContentSizerTopShelfPage.xaml
+GridSplitterPage.xaml
+PropertySizerNavigationViewPage.xaml
+SizerCursorPage.xaml
+ContentSizerLeftShelfPage.xaml.cs
+ContentSizerTopShelfPage.xaml.cs
+GridSplitterPage.xaml.cs
+PropertySizerNavigationViewPage.xaml.cs
+SizerCursorPage.xaml.cs
+ContentSizer.md
+GridSplitter.md
+PropertySizer.md
+SizerControls.md

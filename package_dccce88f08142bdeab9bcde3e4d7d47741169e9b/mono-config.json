@@ -1,0 +1,637 @@
+{
+  "assemblyRootFolder": "managed",
+  "debugLevel": 0,
+  "assets": [
+    {
+      "name": "Uno.Wasm.TimezoneData.dll",
+      "behavior": "assembly",
+      "url": "Uno.Wasm.TimezoneData.clr"
+    },
+    {
+      "name": "netstandard.dll",
+      "behavior": "assembly",
+      "url": "netstandard.clr"
+    },
+    {
+      "name": "System.Private.CoreLib.dll",
+      "behavior": "assembly",
+      "url": "System.Private.CoreLib.clr"
+    },
+    {
+      "name": "System.Private.Uri.dll",
+      "behavior": "assembly",
+      "url": "System.Private.Uri.clr"
+    },
+    {
+      "name": "System.ComponentModel.Primitives.dll",
+      "behavior": "assembly",
+      "url": "System.ComponentModel.Primitives.clr"
+    },
+    {
+      "name": "System.ComponentModel.dll",
+      "behavior": "assembly",
+      "url": "System.ComponentModel.clr"
+    },
+    {
+      "name": "System.Collections.NonGeneric.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.NonGeneric.clr"
+    },
+    {
+      "name": "System.ObjectModel.dll",
+      "behavior": "assembly",
+      "url": "System.ObjectModel.clr"
+    },
+    {
+      "name": "System.Collections.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.clr"
+    },
+    {
+      "name": "System.Collections.Specialized.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.Specialized.clr"
+    },
+    {
+      "name": "System.Memory.dll",
+      "behavior": "assembly",
+      "url": "System.Memory.clr"
+    },
+    {
+      "name": "System.Collections.Concurrent.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.Concurrent.clr"
+    },
+    {
+      "name": "System.Net.Primitives.dll",
+      "behavior": "assembly",
+      "url": "System.Net.Primitives.clr"
+    },
+    {
+      "name": "System.ComponentModel.TypeConverter.dll",
+      "behavior": "assembly",
+      "url": "System.ComponentModel.TypeConverter.clr"
+    },
+    {
+      "name": "System.Text.RegularExpressions.dll",
+      "behavior": "assembly",
+      "url": "System.Text.RegularExpressions.clr"
+    },
+    {
+      "name": "System.Net.Security.dll",
+      "behavior": "assembly",
+      "url": "System.Net.Security.clr"
+    },
+    {
+      "name": "System.Drawing.Primitives.dll",
+      "behavior": "assembly",
+      "url": "System.Drawing.Primitives.clr"
+    },
+    {
+      "name": "System.Linq.dll",
+      "behavior": "assembly",
+      "url": "System.Linq.clr"
+    },
+    {
+      "name": "System.Private.Xml.dll",
+      "behavior": "assembly",
+      "url": "System.Private.Xml.clr"
+    },
+    {
+      "name": "System.Net.Http.dll",
+      "behavior": "assembly",
+      "url": "System.Net.Http.clr"
+    },
+    {
+      "name": "System.Runtime.InteropServices.JavaScript.dll",
+      "behavior": "assembly",
+      "url": "System.Runtime.InteropServices.JavaScript.clr"
+    },
+    {
+      "name": "System.Linq.Expressions.dll",
+      "behavior": "assembly",
+      "url": "System.Linq.Expressions.clr"
+    },
+    {
+      "name": "System.Console.dll",
+      "behavior": "assembly",
+      "url": "System.Console.clr"
+    },
+    {
+      "name": "System.Collections.Immutable.dll",
+      "behavior": "assembly",
+      "url": "System.Collections.Immutable.clr"
+    },
+    {
+      "name": "System.Linq.Queryable.dll",
+      "behavior": "assembly",
+      "url": "System.Linq.Queryable.clr"
+    },
+    {
+      "name": "System.Web.HttpUtility.dll",
+      "behavior": "assembly",
+      "url": "System.Web.HttpUtility.clr"
+    },
+    {
+      "name": "CommunityToolkit.App.Wasm.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.App.Wasm.clr"
+    },
+    {
+      "name": "Uno.UI.Runtime.WebAssembly.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Runtime.WebAssembly.clr"
+    },
+    {
+      "name": "Uno.UI.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.clr"
+    },
+    {
+      "name": "Uno.Foundation.dll",
+      "behavior": "assembly",
+      "url": "Uno.Foundation.clr"
+    },
+    {
+      "name": "Uno.Foundation.Logging.dll",
+      "behavior": "assembly",
+      "url": "Uno.Foundation.Logging.clr"
+    },
+    {
+      "name": "Uno.Foundation.Runtime.WebAssembly.dll",
+      "behavior": "assembly",
+      "url": "Uno.Foundation.Runtime.WebAssembly.clr"
+    },
+    {
+      "name": "Uno.Diagnostics.Eventing.dll",
+      "behavior": "assembly",
+      "url": "Uno.Diagnostics.Eventing.clr"
+    },
+    {
+      "name": "Uno.Xaml.dll",
+      "behavior": "assembly",
+      "url": "Uno.Xaml.clr"
+    },
+    {
+      "name": "Uno.dll",
+      "behavior": "assembly",
+      "url": "Uno.clr"
+    },
+    {
+      "name": "Uno.UI.Dispatching.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Dispatching.clr"
+    },
+    {
+      "name": "System.Text.Json.dll",
+      "behavior": "assembly",
+      "url": "System.Text.Json.clr"
+    },
+    {
+      "name": "System.Text.Encodings.Web.dll",
+      "behavior": "assembly",
+      "url": "System.Text.Encodings.Web.clr"
+    },
+    {
+      "name": "Uno.UI.Composition.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Composition.clr"
+    },
+    {
+      "name": "CommunityToolkit.Tooling.SampleGen.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Tooling.SampleGen.clr"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "cs/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "cs"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "de/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "de"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "es/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "es"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "fr/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "fr"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "it/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "it"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "ja/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "ja"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "ko/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "ko"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "pl/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "pl"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "pt-BR/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "pt-BR"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "ru/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "ru"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "tr/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "tr"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "zh-Hans/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "zh-Hans"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.resources.dll",
+      "behavior": "resource",
+      "url": "zh-Hant/Microsoft.CodeAnalysis.resources.clr",
+      "culture": "zh-Hant"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "cs/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "cs"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "de/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "de"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "es/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "es"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "fr/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "fr"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "it/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "it"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "ja/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "ja"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "ko/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "ko"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "pl/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "pl"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "pt-BR/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "pt-BR"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "ru/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "ru"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "tr/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "tr"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "zh-Hans"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "behavior": "resource",
+      "url": "zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.clr",
+      "culture": "zh-Hant"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Converters.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Converters.clr"
+    },
+    {
+      "name": "Uno.UI.Toolkit.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.Toolkit.clr"
+    },
+    {
+      "name": "CommunityToolkit.Common.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Common.clr"
+    },
+    {
+      "name": "Microsoft.Xaml.Interactivity.dll",
+      "behavior": "assembly",
+      "url": "Microsoft.Xaml.Interactivity.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.SettingsControls.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.SettingsControls.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Triggers.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Triggers.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Helpers.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Helpers.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Extensions.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Extensions.clr"
+    },
+    {
+      "name": "Microsoft.Xaml.Interactions.dll",
+      "behavior": "assembly",
+      "url": "Microsoft.Xaml.Interactions.clr"
+    },
+    {
+      "name": "AnimationsExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "AnimationsExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Animations.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Animations.clr"
+    },
+    {
+      "name": "BehaviorsExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "BehaviorsExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Behaviors.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Behaviors.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.HeaderedControls.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.HeaderedControls.clr"
+    },
+    {
+      "name": "CanvasLayoutExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "CanvasLayoutExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.Labs.WinUI.CanvasLayout.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Labs.WinUI.CanvasLayout.clr"
+    },
+    {
+      "name": "CanvasViewExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "CanvasViewExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.Labs.WinUI.CanvasView.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Labs.WinUI.CanvasView.clr"
+    },
+    {
+      "name": "CollectionsExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "CollectionsExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Collections.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Collections.clr"
+    },
+    {
+      "name": "ConvertersExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "ConvertersExperiment.Samples.clr"
+    },
+    {
+      "name": "DeveloperToolsExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "DeveloperToolsExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.DeveloperTools.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.DeveloperTools.clr"
+    },
+    {
+      "name": "ExtensionsExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "ExtensionsExperiment.Samples.clr"
+    },
+    {
+      "name": "HeaderedControlsExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "HeaderedControlsExperiment.Samples.clr"
+    },
+    {
+      "name": "HelpersExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "HelpersExperiment.Samples.clr"
+    },
+    {
+      "name": "LayoutTransformControlExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "LayoutTransformControlExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.LayoutTransformControl.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.LayoutTransformControl.clr"
+    },
+    {
+      "name": "MarqueeTextExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "MarqueeTextExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.Labs.WinUI.MarqueeText.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Labs.WinUI.MarqueeText.clr"
+    },
+    {
+      "name": "MetadataControlExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "MetadataControlExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.MetadataControl.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.MetadataControl.clr"
+    },
+    {
+      "name": "PrimitivesExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "PrimitivesExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.Primitives.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.Primitives.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.Sizers.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.Sizers.clr"
+    },
+    {
+      "name": "RangeSelectorExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "RangeSelectorExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.RangeSelector.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.RangeSelector.clr"
+    },
+    {
+      "name": "RivePlayerExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "RivePlayerExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.Labs.WinUI.Rive.RivePlayer.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Labs.WinUI.Rive.RivePlayer.clr"
+    },
+    {
+      "name": "RiveSharp.dll",
+      "behavior": "assembly",
+      "url": "RiveSharp.clr"
+    },
+    {
+      "name": "SkiaSharp.dll",
+      "behavior": "assembly",
+      "url": "SkiaSharp.clr"
+    },
+    {
+      "name": "SkiaSharp.Views.UWP.dll",
+      "behavior": "assembly",
+      "url": "SkiaSharp.Views.UWP.clr"
+    },
+    {
+      "name": "SegmentedExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "SegmentedExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.Segmented.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.Segmented.clr"
+    },
+    {
+      "name": "SettingsControlsExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "SettingsControlsExperiment.Samples.clr"
+    },
+    {
+      "name": "SizersExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "SizersExperiment.Samples.clr"
+    },
+    {
+      "name": "TokenizingTextBoxExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "TokenizingTextBoxExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.WinUI.Controls.TokenizingTextBox.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.WinUI.Controls.TokenizingTextBox.clr"
+    },
+    {
+      "name": "TokenViewExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "TokenViewExperiment.Samples.clr"
+    },
+    {
+      "name": "CommunityToolkit.Labs.WinUI.TokenView.dll",
+      "behavior": "assembly",
+      "url": "CommunityToolkit.Labs.WinUI.TokenView.clr"
+    },
+    {
+      "name": "TriggersExperiment.Samples.dll",
+      "behavior": "assembly",
+      "url": "TriggersExperiment.Samples.clr"
+    },
+    {
+      "name": "Uno.UI.FluentTheme.v2.dll",
+      "behavior": "assembly",
+      "url": "Uno.UI.FluentTheme.v2.clr"
+    },
+    {
+      "name": "Markdig.dll",
+      "behavior": "assembly",
+      "url": "Markdig.clr"
+    },
+    {
+      "name": "dotnet.wasm",
+      "behavior": "dotnetwasm",
+      "url": "dotnet.wasm"
+    },
+    {
+      "name": "icudt.dat",
+      "behavior": "icu",
+      "url": "icudt.dat"
+    }
+  ]
+}

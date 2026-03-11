@@ -1,0 +1,13 @@
+/* Hyperlink Theme Aware Link Color (MarkdownTextBlock) https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme */
+@media (prefers-color-scheme: dark)
+{
+  .fluent-hyperlink-style a {
+     color: #FFFFFF;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .fluent-hyperlink-style a {
+    color: #000000;
+  }
+}
